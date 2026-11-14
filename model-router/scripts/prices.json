@@ -1,0 +1,6 @@
+{
+  "_note": "USD per million tokens. Edit if prices change. Source: platform.claude.com/docs/en/about-claude/pricing (checked 2026-11-14).",
+  "opus":   {"input": 4.0,  "out": 20.0, "cw5m": 5.0,   "cw1h": 8.0, "cr": 0.20},
+  "sonnet": {"input": 2.0,  "out": 10.0, "cw5m": 2.5,   "cw1h": 4.0, "cr": 0.10},
+  "haiku":  {"input": 0.10, "out": 0.50, "cw5m": 0.125, "cw1h": 0.20, "cr": 0.01}
+}

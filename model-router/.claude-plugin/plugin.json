@@ -1,0 +1,18 @@
+{
+  "name": "model-router",
+  "version": "0.4.0",
+  "description": "Sonnet-first routing: Sonnet does normal work, Haiku takes bulk mechanical chunks, Opus plans or reviews in one shot only for big or risky work. Includes a cost report.",
+  "author": {
+    "name": "Rudra Trivedi"
+  },
+  "license": "MIT",
+  "keywords": [
+    "routing",
+    "cost",
+    "subagents",
+    "haiku",
+    "sonnet",
+    "opus",
+    "review"
+  ]
+}

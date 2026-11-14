@@ -1,0 +1,15 @@
+{
+  "name": "rudra-mods",
+  "description": "Claude Code mods by Rudra Trivedi.",
+  "owner": {
+    "name": "Rudra Trivedi"
+  },
+  "plugins": [
+    {
+      "name": "model-router",
+      "source": "./model-router",
+      "description": "Right model, right job: Sonnet does the work, Haiku takes bulk chores, Opus plans or reviews once. Includes a cost report.",
+      "version": "0.4.0"
+    }
+  ]
+}
